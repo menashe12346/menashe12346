@@ -11,6 +11,6 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,cpp,mysql,java,git,c,github,mongodb" /> 
+    <img src="https://skillicons.dev/icons?i=py,linux,cpp,mysql,java,git,c,github" /> 
   </a>
 </p>
